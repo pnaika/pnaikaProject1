@@ -1,0 +1,8 @@
+edu.iit.sat.itmd4515.pnaika.mp2.model
+edu.iit.sat.itmd4515.pnaika.mp2.repository.jdbc
+edu.iit.sat.itmd4515.pnaika.mp2.repository.jpa
+edu.iit.sat.itmd4515.pnaika.mp2.repository.simple
+edu.iit.sat.itmd4515.pnaika.mp2.repository1
+edu.iit.sat.itmd4515.pnaika.mp2.service
+edu.iit.sat.itmd4515.pnaika.mp2.util
+edu.iit.sat.itmd4515.pnaika.mp2.web

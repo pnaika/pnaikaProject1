@@ -1,0 +1,24 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="css/foundation.css" />
+        <script src="js/vendor/modernizr.js"></script>  
+    </head>
+    <body>
+        <div class="icon-bar five-up">
+          <a class="item">
+            <label>ITMD515</label>
+          </a>
+        </div>
+     <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <!-- Other JS plugins can be included here -->
+    <script>
+        $(document).foundation();
+    </script>
+        
+    </body>
+</html>
